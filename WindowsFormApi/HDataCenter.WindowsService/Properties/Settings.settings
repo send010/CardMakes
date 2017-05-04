@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HDataCenter.WindowsService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ListenerAddr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://+:8088/</Value>
+    </Setting>
+    <Setting Name="HisService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://192.168.200.38/jnsfy/zaojiaowebservice.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
